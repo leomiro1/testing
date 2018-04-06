@@ -1,0 +1,37 @@
+[0404/101000.321:ERROR:scoped_process_suspend.cc(31)] NtSuspendProcess: Se intentó obtener acceso a un proceso que está cerrándose. (0xc000010a)
+[0404/101000.337:ERROR:process_info.cc(118)] ReadProcessMemory bool __cdecl crashpad::(anonymous namespace)::ReadStruct(HANDLE, crashpad::WinVMAddress, T *) [T = crashpad::process_types::PEB<crashpad::process_types::internal::Traits32>]: Sólo se completó una parte de una solicitud ReadProcessMemory o WriteProcessMemory. (0x12B)
+[0404/101000.337:ERROR:process_info.cc(545)] ReadProcessData failed
+[0404/101000.337:ERROR:process_reader_win.cc(242)] ReadMemory at 0x655fd060 of 12 bytes failed: Sólo se completó una parte de una solicitud ReadProcessMemory o WriteProcessMemory. (0x12B)
+[0404/101000.337:WARNING:process_snapshot_win.cc(69)] ReadMemory ExceptionInformation failed
+[0404/101000.337:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
+[0404/101408.638:ERROR:scoped_process_suspend.cc(31)] NtSuspendProcess: Se intentó obtener acceso a un proceso que está cerrándose. (0xc000010a)
+[0404/101408.648:ERROR:process_info.cc(118)] ReadProcessMemory bool __cdecl crashpad::(anonymous namespace)::ReadStruct(HANDLE, crashpad::WinVMAddress, T *) [T = crashpad::process_types::PEB<crashpad::process_types::internal::Traits32>]: Sólo se completó una parte de una solicitud ReadProcessMemory o WriteProcessMemory. (0x12B)
+[0404/101408.648:ERROR:process_info.cc(545)] ReadProcessData failed
+[0404/101408.648:ERROR:process_reader_win.cc(242)] ReadMemory at 0x636cd060 of 12 bytes failed: Sólo se completó una parte de una solicitud ReadProcessMemory o WriteProcessMemory. (0x12B)
+[0404/101408.648:WARNING:process_snapshot_win.cc(69)] ReadMemory ExceptionInformation failed
+[0404/101408.648:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
+[0404/102440.077:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: Se intentó obtener acceso a un proceso que está cerrándose. (0xc000010a)
+[0405/081935.312:ERROR:scoped_process_suspend.cc(31)] NtSuspendProcess: Se intentó obtener acceso a un proceso que está cerrándose. (0xc000010a)
+[0405/081935.334:ERROR:process_info.cc(118)] ReadProcessMemory bool __cdecl crashpad::(anonymous namespace)::ReadStruct(HANDLE, crashpad::WinVMAddress, T *) [T = crashpad::process_types::PEB<crashpad::process_types::internal::Traits32>]: Sólo se completó una parte de una solicitud ReadProcessMemory o WriteProcessMemory. (0x12B)
+[0405/081935.334:ERROR:process_info.cc(545)] ReadProcessData failed
+[0405/081935.334:ERROR:process_reader_win.cc(242)] ReadMemory at 0x685dd060 of 12 bytes failed: Sólo se completó una parte de una solicitud ReadProcessMemory o WriteProcessMemory. (0x12B)
+[0405/081935.334:WARNING:process_snapshot_win.cc(69)] ReadMemory ExceptionInformation failed
+[0405/081935.334:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
+[0405/090341.064:ERROR:scoped_process_suspend.cc(31)] NtSuspendProcess: Se intentó obtener acceso a un proceso que está cerrándose. (0xc000010a)
+[0405/090341.111:ERROR:process_info.cc(118)] ReadProcessMemory bool __cdecl crashpad::(anonymous namespace)::ReadStruct(HANDLE, crashpad::WinVMAddress, T *) [T = crashpad::process_types::PEB<crashpad::process_types::internal::Traits32>]: Sólo se completó una parte de una solicitud ReadProcessMemory o WriteProcessMemory. (0x12B)
+[0405/090341.111:ERROR:process_info.cc(545)] ReadProcessData failed
+[0405/090341.111:ERROR:process_reader_win.cc(242)] ReadMemory at 0x6f7dd060 of 12 bytes failed: Sólo se completó una parte de una solicitud ReadProcessMemory o WriteProcessMemory. (0x12B)
+[0405/090341.111:WARNING:process_snapshot_win.cc(69)] ReadMemory ExceptionInformation failed
+[0405/090341.111:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
+[0405/092004.868:ERROR:scoped_process_suspend.cc(31)] NtSuspendProcess: Se intentó obtener acceso a un proceso que está cerrándose. (0xc000010a)
+[0405/092005.110:ERROR:process_info.cc(118)] ReadProcessMemory bool __cdecl crashpad::(anonymous namespace)::ReadStruct(HANDLE, crashpad::WinVMAddress, T *) [T = crashpad::process_types::PEB<crashpad::process_types::internal::Traits32>]: Sólo se completó una parte de una solicitud ReadProcessMemory o WriteProcessMemory. (0x12B)
+[0405/092005.110:ERROR:process_info.cc(545)] ReadProcessData failed
+[0405/092005.110:ERROR:process_reader_win.cc(242)] ReadMemory at 0x6f7dd060 of 12 bytes failed: Sólo se completó una parte de una solicitud ReadProcessMemory o WriteProcessMemory. (0x12B)
+[0405/092005.110:WARNING:process_snapshot_win.cc(69)] ReadMemory ExceptionInformation failed
+[0405/092005.110:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
+[0405/100828.438:ERROR:scoped_process_suspend.cc(31)] NtSuspendProcess: Se intentó obtener acceso a un proceso que está cerrándose. (0xc000010a)
+[0405/100828.485:ERROR:process_info.cc(118)] ReadProcessMemory bool __cdecl crashpad::(anonymous namespace)::ReadStruct(HANDLE, crashpad::WinVMAddress, T *) [T = crashpad::process_types::PEB<crashpad::process_types::internal::Traits32>]: Sólo se completó una parte de una solicitud ReadProcessMemory o WriteProcessMemory. (0x12B)
+[0405/100828.485:ERROR:process_info.cc(545)] ReadProcessData failed
+[0405/100828.485:ERROR:process_reader_win.cc(242)] ReadMemory at 0x65a1d060 of 12 bytes failed: Sólo se completó una parte de una solicitud ReadProcessMemory o WriteProcessMemory. (0x12B)
+[0405/100828.485:WARNING:process_snapshot_win.cc(69)] ReadMemory ExceptionInformation failed
+[0405/100828.485:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
